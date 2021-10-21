@@ -1,0 +1,10 @@
+/.cache
+/.vscode
+/Dockerfile
+/bin
+/build
+/docker-compose.debug.yml
+/docker-compose.yml
+/lib
+/output
+/test
